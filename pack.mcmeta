@@ -1,0 +1,10 @@
+{
+    "pack": { 
+        "pack_format": 42,
+        "support_formats":{
+          "min_inclusive":6,
+          "max_inclusive":80
+        },
+        "description": "Land Resources Pack 18"
+    }
+}
